@@ -1,0 +1,2 @@
+f19d139 Version2: Add de la clase Articulo
+475a005 Version1: Inicio de proyecto
